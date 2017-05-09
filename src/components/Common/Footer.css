@@ -1,0 +1,46 @@
+.footer{
+    position: fixed;
+    width: 100%;
+    top: auto;
+    bottom: 0;
+    z-index: 1000;
+    background-color: #fff;
+    border-top: 1px solid #c3c3c3;
+    height: .9rem;
+    text-align: center;
+    line-height: .9rem;
+}
+.footer ul {
+    height: .9rem;
+}
+.footer li {
+    float: left;
+    width: 25%;
+}
+.footer a {
+    color: #c3c3c3;
+}
+.footer .active a {
+    color: #00ba00;
+}
+.am-icon-md.icon use {
+    width: .36rem!important;
+    height: .36rem!important;
+    background: #f00!important;
+    display: block!important;
+}
+dl.tabs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+dl.tabs dt {
+    height: .36rem;
+}
+dl.tabs dd {
+    font-size: .22rem;
+    font-family: cursive;
+    font-weight: bold;
+    line-height: .72rem;
+}

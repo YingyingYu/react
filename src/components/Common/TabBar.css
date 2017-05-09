@@ -1,0 +1,13 @@
+.am-navbar-light .am-navbar-title {
+    font-family: fantasy;
+    color: #00b600;
+    line-height: 0.4rem;
+    font-size: 0.5rem;
+    font-weight: bold;
+}
+.am-navbar-light {
+    border-bottom: 0.02rem solid #ccc;
+}
+.am-tab-bar-bar {
+    border-top:  0.02rem solid #ccc;  
+}

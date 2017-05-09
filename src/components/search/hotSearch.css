@@ -1,0 +1,37 @@
+.hot {
+    font-size: 0.3rem;
+    font-family: cursive;
+    font-weight: bold;
+    color: #aaa;
+    line-height: 0.4rem;
+    text-align: left;
+    padding: 0.24rem 0.2rem 0 0.2rem;
+}
+.cellSearch {
+    height: 0.86rem;
+    width: 100vw;
+    background: #fff;
+    border-top: 1px solid #e3e3e3;
+}
+.cellSearch a .searchIndex {
+    float: left;
+    width: 0.4rem;
+    height: 0.4rem;
+    background: #e3e3e3;
+    border: 1px solid #aaa;
+    border-radius: 0.05rem;
+    font-size: 0.28rem;
+    line-height: 0.37rem;
+    font-family: cursive;
+    color: #00ba00;
+    margin: 0.26rem 0 0 0.24rem;
+    text-align: center;
+}
+.cellSearch a .searchTitle {
+    float: left;
+    font-size: 0.3rem;
+    font-family: cursive;
+    font-weight: bold;
+    color: #555;
+    margin: 0.25rem 0 0 0.2rem;
+}

@@ -1,0 +1,80 @@
+form.loginIn {
+    width: 90vw;
+    height: 4rem;
+    margin: 3rem auto;
+}
+.loginType {
+    height: .8rem;
+    margin: 0.3rem 0;
+    position: relative;
+}
+.userLabel,.pwdLabel,.rePwdLabel {
+    font-size: 0.28rem;
+    font-family: cursive;
+    font-weight: bold;
+}
+.userName,.password,.rePassword {
+    width: 64vw;
+    height: .8rem;
+    line-height: .8rem;
+    font-size: 0.3rem;
+    font-family: cursive;
+    border: 1px solid #ddd;
+    background: #fff;
+    border-radius: .2rem;
+    padding: 0 .6rem 0 .2rem;
+    margin-left: .2rem;
+}
+.am-button-primary {
+    background-color: #00ba00;
+    border: 1px solid #00ba00;
+}
+.am-button-primary.am-button-active {
+    background-color: #00ba00;
+    border: 1px solid #00ba00;
+}
+.loginBtn {
+    width: 90vw;
+    height: .7rem;
+    line-height: .7rem;
+    font-size: .4rem;
+    font-family: cursive;
+    font-weight: bold;
+    color: #fff;
+    background: #00ba00;
+    border-radius: .14rem;
+    margin-top: .3rem;
+    /*transform: translateX(-50%);*/
+}
+.registerIn {
+    width: 90vw;
+    height: .8rem;
+    margin-top: .1rem; 
+}
+.registerIn ul {
+    width: 44vw;
+    line-height: .8rem;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+.registerIn ul li {
+    font-size: .27rem;
+    font-family: cursive;
+    font-weight: bold;
+    color: #666; 
+}
+.registerIn ul li:first-child a {
+    color: #00ba00;
+}
+.successIcon {
+    width: .32rem;
+    display: block;
+    position: absolute;
+    top: .3rem;
+    right: .5rem;
+}
+.error {
+    display: none;
+}

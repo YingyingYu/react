@@ -1,0 +1,10 @@
+.navBar a svg.am-icon-search {
+    margin-right: 0 !important;
+}
+.navBar .index {
+    font-size: 0.35rem;
+    font-family: cursive;
+    font-weight: bold;
+    color: #000;
+    transform: translateX(-30%);
+}

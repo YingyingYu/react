@@ -1,0 +1,11 @@
+.contentMe {
+    margin-top: 0.9rem;
+    height: 10rem;
+}
+.navBar .me {
+    font-size: 0.35rem;
+    font-family: cursive;
+    font-weight: bold;
+    color: #000;
+    transform: translateX(6%);
+}
